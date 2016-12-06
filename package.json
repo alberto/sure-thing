@@ -1,0 +1,17 @@
+{
+  "name": "latr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests test/test-adapter",
+    "test2": "promises-aplus-tests test/test-adapter2"
+  },
+  "keywords": [],
+  "author": "alberto <alberto.rdrz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.11.1",
+    "promises-aplus-tests": "*"
+  }
+}
