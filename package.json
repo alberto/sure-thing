@@ -1,12 +1,21 @@
 {
   "name": "sure-thing",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple and fast Promises/A+ implementation.",
   "main": "index.js",
   "scripts": {
     "test": "promises-aplus-tests test-adapter"
   },
-  "keywords": [],
+  "keywords": [
+    "promise",
+    "promises",
+    "promises-a",
+    "promises-aplus",
+    "defer",
+    "deferred",
+    "deferreds",
+    "performance"
+  ],
   "author": "alberto <alberto.rdrz@gmail.com>",
   "license": "MIT",
   "devDependencies": {
